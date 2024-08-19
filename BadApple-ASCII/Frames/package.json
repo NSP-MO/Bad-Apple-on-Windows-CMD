@@ -1,0 +1,8 @@
+{
+  "devDependencies": {
+    "webpack": "^5.89.0"
+  },
+  "dependencies": {
+    "ffmpeg": "^0.0.4"
+  }
+}
